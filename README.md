@@ -20,4 +20,4 @@ The accompanying bash script is incredibly simple to use. Just clone the reposit
 
 Enjoy streamlined subdomain enumeration!
 
-Follow me on Twitter: [@ArmanSameer95](https://twitter.com/ArmanSameer95) for updates and discussions. Feel free to contribute and make Shrewdeye even better! 🌐
+Follow me on Twitter: [@ArmanSameer95](https://twitter.com/ArmanSameer95) & [@drunkrhin0](https://twitter.com/drunkrhin0) for updates and discussions. Feel free to contribute and make Shrewdeye even better! 🌐
