@@ -1,7 +1,7 @@
 # Shrewdeye Bash CLI 🚀
 
 ## What is Shrewdeye Bash?
-Shrewdeye is a user-friendly UI tool available at [shrewdeye.app](https://shrewdeye.app/), designed to streamline the subdomain enumeration process for Security Researchers. Leveraging the power of amass, subfinder, and assetfinder tools, Shrewdeye consistently delivers excellent results for comprehensive subdomain testing.
+Shrewdeye is a user-friendly UI tool available at [shrewdeye.app](https://shrewdeye.app/), designed to streamline the subdomain enumeration process for Security Researchers. Leveraging the power of [amass](https://github.com/owasp-amass/amass), [subfinder](https://github.com/projectdiscovery/subfinder), and [assetfinder](https://github.com/tomnomnom/assetfinder) tools, Shrewdeye consistently delivers excellent results for comprehensive subdomain testing.
 
 I find their services highly effective, providing me with accurate and quick results for testing purposes.
 
